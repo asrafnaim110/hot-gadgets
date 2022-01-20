@@ -1,0 +1,31 @@
+.buy_now_btn{
+    border-radius: 5px;
+    margin-left: 140px;
+}
+.smartphone_text h5{
+ color: orangered;
+ 
+}
+.laptop{
+    margin-top: 100px;
+}
+.product_card{
+    margin-top: 20px;
+}
+.col{
+    box-shadow: 3px 3px 3px lightgray;
+    border-radius: 20px;
+}
+.card{
+    border: none;
+}
+#categories_h1{
+    margin-top: 150px;
+}
+.hello{
+    background-color: lightgray;
+    border-radius: 10px;
+}
+.cart{
+    width: 90%;
+}
